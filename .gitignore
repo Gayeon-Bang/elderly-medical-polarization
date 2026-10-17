@@ -1,0 +1,12 @@
+data/*
+!data/README.md
+*.csv
+*.txt
+!requirements.txt
+*.xlsx
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+.ipynb_checkpoints/
